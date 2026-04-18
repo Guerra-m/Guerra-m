@@ -18,7 +18,6 @@
 * 💻 Enfocado en Java y desarrollo web
 * 🌱 Aprendiendo HTML, CSS y JavaScript
 * 🧠 Interesado en crear aplicaciones con interfaz gráfica
-* 🚀 Siempre aprendiendo cosas nuevas
 <br>
 
 
