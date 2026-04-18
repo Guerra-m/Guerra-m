@@ -25,13 +25,16 @@
 
 <!-- ===================== -->
 
-## 👨‍💻 Sobre mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<br><br>
 * 🎓 Estudiante de programación
 * 💻 Enfocado en Java y desarrollo web
 * 🌱 Aprendiendo HTML, CSS y JavaScript
 * 🧠 Interesado en crear aplicaciones con interfaz gráfica
 * 🚀 Siempre aprendiendo cosas nuevas
+<br>
 
 <!-- 👉 MODIFICÁ esto con tu info real -->
 
